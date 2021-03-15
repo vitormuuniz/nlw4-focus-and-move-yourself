@@ -8,7 +8,7 @@
     - yarn dev
 ### 2. Frontend directory
     - yarn install;
-    - yarn start;
+    - yarn dev;
 
 
 ##### Automatically the application will open a tab on your browser on localhost:3000/.
