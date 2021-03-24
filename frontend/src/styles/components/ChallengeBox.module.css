@@ -62,8 +62,13 @@
   justify-content: center;
 }
 
+.challengeActive main img {
+  width: 8rem;
+  margin-top: 1rem;
+}
+
 .challengeActive main strong {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 600;
   color: var(--title);
   margin: 1.5rem 0 1rem;
@@ -71,6 +76,7 @@
 
 .challengeActive p {
   line-height: 1.5;
+  margin-bottom: 1rem;
 }
 
 .challengeActive footer {
