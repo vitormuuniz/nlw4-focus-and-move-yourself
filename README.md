@@ -5,4 +5,4 @@
     - yarn build;
     - yarn start;
 
-##### Automatically the application will open a tab on your browser on localhost:3000/.
+##### The application will run on your browser on localhost:3000/.
