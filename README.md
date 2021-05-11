@@ -6,3 +6,6 @@
     - yarn start;
 
 ##### The application will run on your browser on localhost:3000/.
+
+### Access it on web:
+    You can access the application that's running on https://nlw4-focus-and-move-yourself.vercel.app/
