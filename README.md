@@ -1,5 +1,7 @@
 # Next Level Week 4 🚀
 
+The goal was creating an app to count the activity time like pomodoro technique, using Next.js to develop the web interface.
+
 ##### To run this application you need to execute the following commands in frontend directory: 
     - yarn install;
     - yarn build;
